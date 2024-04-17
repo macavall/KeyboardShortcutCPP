@@ -2,7 +2,5 @@
 
 Here is an example:
 
-
-
-https://github.com/macavall/KeyboardShortcutCPP/assets/43223084/160888da-e817-474c-ab56-2916826b238b
+https://github.com/macavall/KeyboardShortcutCPP/assets/43223084/54b5c93d-a4ab-4de8-862a-d97a5e8aa4af
 
